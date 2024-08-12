@@ -1,4 +1,5 @@
 # Step 1: Create a class for the Game
+import random
 
 class RockPaperScissorsGame:
     # Step 2: Initialize the class with options
